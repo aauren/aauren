@@ -1,16 +1,11 @@
-### Hi there 👋
+[![Aaron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aauren)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**aauren/aauren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# About Me
+* I primarily code in Go & Python these days. Although, I have a background in Java & Ruby.
+* I'm a maintainer for kube-router
+* I'm interested in:
+  * Kubernetes and especially Kubernetes networking
+  * Networking in general (especially tinkingering around with home networking)
+  * Creating purposeful tools that improve efficiency
+  * Applying the benefits of platform to enterprise development
+  * Finding efficiencies through CI / CD
