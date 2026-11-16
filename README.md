@@ -1,4 +1,4 @@
-[![Aaron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aauren)](https://github.com/anuraghazra/github-readme-stats)
+[![Aaron's GitHub Stats](https://github-stats-extended.vercel.app/api?username=aauren&theme=transparent&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
 
 # About Me
 * I primarily code in Go & Python these days. Although, I have a background in Java & Ruby.
